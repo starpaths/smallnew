@@ -1,0 +1,21 @@
+<div class="swiper-container">
+	<div class="swiper-wrapper" id="mySwiper">
+		<div class="swiper-slide">
+			<img src="/images/sw01.jpg">
+		</div>
+		<div class="swiper-slide">
+			<img src="/images/sw02.jpg">
+		</div>
+		<div class="swiper-slide">
+			<img src="/images/sw03.jpg">
+		</div>
+		<div class="swiper-slide">
+			
+		</div>
+	</div>
+	<!-- 如果需要导航按钮 -->
+   <!--  <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div> -->
+     <!-- 如果需要分页器 -->
+    <!-- <div class="swiper-pagination"></div> -->
+</div>

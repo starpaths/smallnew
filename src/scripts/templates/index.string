@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <title>足球圈</title>
+    </head>
+    <body>
+    	<div class="m-container">
+    		<header>
+    			<ul>
+    				<li class="iconfont">&#xe745;</li>
+    				<li>
+    					<span class="active">热点</span>
+    					<span>关注</span>
+    				</li>
+    				<li class="iconfont">&#xe684;</li>
+    			</ul>
+    		</header>
+    		<nav>
+    			<ul>
+    				<li class="active">足球现场</li>
+    				<li>足球生活</li>
+    				<li>足球美女</li>
+    			</ul>
+    		</nav>
+    		<section id="main-scroll">
+    			<ul>
+    				<li>
+    					<img src="images/img1.jpg">
+    					<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
+    				</li>
+    				<li>
+    					<img src="images/img2.png">
+    					<p>呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵</p>
+    				</li>
+    				<li>
+    					<img src="images/img3.jpg">
+    					<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+    				</li>
+    				<li>
+    					<img src="images/img4.jpg">
+    					<p>啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</p>
+    				</li>
+    				<li>
+    					<img src="images/img1.jpg">
+    					<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
+    				</li>
+    				<li>
+    					<img src="images/img2.png">
+    					<p>呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵</p>
+    				</li>
+    				<li>
+    					<img src="images/img3.jpg">
+    					<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+    				</li>
+    				<li>
+    					<img src="images/img4.jpg">
+    					<p>啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</p>
+    				</li>
+                    <li>
+                        <img src="images/img1.jpg">
+                        <p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
+                    </li>
+                    <li>
+                        <img src="images/img2.png">
+                        <p>呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵</p>
+                    </li>
+                    <li>
+                        <img src="images/img3.jpg">
+                        <p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+                    </li>
+                    <li>
+                        <img src="images/img4.jpg">
+                        <p>啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</p>
+                    </li>
+                    <li>
+                        <img src="images/img1.jpg">
+                        <p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>
+                    </li>
+                    <li>
+                        <img src="images/img2.png">
+                        <p>呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵</p>
+                    </li>
+                    <li>
+                        <img src="images/img3.jpg">
+                        <p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+                    </li>
+                    <li>
+                        <img src="images/img4.jpg">
+                        <p>啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦</p>
+                    </li>
+    			</ul>
+    		</section>
+    		<footer>
+    			<ul class="iconfont">
+    				<li class="active">
+    					<i>&#xe6bb;</i>
+    					<b>首页</b>
+    				</li>
+    				<li>
+    					<i>&#xe65c;</i>
+    					<b>发现</b>
+    				</li>
+    				<li>
+    					<i>&#xe664;</i>
+    				</li>
+    				<li>
+    					<i>&#xe735;</i>
+    					<b>我的</b>
+    				</li>
+    				<li>
+    					<i>&#xe603;</i>
+    					<b>退出</b>
+    				</li>
+    			</ul>
+    		</footer>
+    	</div>
+    </body>
+</html>
